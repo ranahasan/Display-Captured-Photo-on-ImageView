@@ -1,7 +1,7 @@
 # Display-Captured-Photo-on-ImageView
 
 ```
-private ImageView imageHolders;
+    private ImageView imageHolders;
     private final int requestCode = 20;
 
     @Override
