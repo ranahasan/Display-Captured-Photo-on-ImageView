@@ -27,4 +27,4 @@
             imageHolders.setImageBitmap(bitmap);
         }
     }
-    ```
+```
